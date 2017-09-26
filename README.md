@@ -6,7 +6,7 @@ This is my submission for the Coursera Getting and Cleaning Data Course Project.
 3. run_analysis.R which is the script used to create the data set
 4. tidy_dataset.txt which is the tidy data set
 
-The R script tun_analysis.R does the following:
+The R script run_analysis.R does the following:
 1. Downloads and unzips the dataset if it is not already in the working directory
 2. Reads the training, test and features data
 3. Merges the training and test sets to create one data set
